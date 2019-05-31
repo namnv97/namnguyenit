@@ -6,7 +6,7 @@
 	<div class="breadcrumb">
 		<ul>
 			<li><a href="#">Trang chủ</a></li>
-			<li>Theme cat</li>
+			<li>Danh muc bài viết</li>
 		</ul>
 	</div>
 	<h1>Category Title</h1>
