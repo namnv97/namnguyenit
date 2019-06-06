@@ -6,7 +6,11 @@
 	<div class="breadcrumb">
 		<ul>
 			<li><a href="#">Trang chủ</a></li>
+<<<<<<< HEAD
+			<li>Danh mục test</li>
+=======
 			<li>Danh muc bài viết</li>
+>>>>>>> master
 		</ul>
 	</div>
 	<h1>Category Title</h1>
